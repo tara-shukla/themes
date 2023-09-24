@@ -64,7 +64,7 @@
 
 .ace_keyword {
   font-weight: bold;
-  color: #84199e;
+  color: #f262fc;
   background-color: rgba(255, 212, 212, 0.00);
 
 }
