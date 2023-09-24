@@ -64,7 +64,7 @@
 
 .ace_keyword {
   font-weight: bold;
-  color: #9d4ebf;
+  color: #e05188;
   background-color: rgba(255, 212, 212, 0.00);
 
 }
@@ -138,7 +138,7 @@
 
 .ace_comment {
   font-weight: bold;
-  color: #e05188;
+  color: #fca6ff;
   background-color: rgba(233, 143, 255, 0.29);
 
 }
