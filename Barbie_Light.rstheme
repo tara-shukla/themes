@@ -64,7 +64,7 @@
 
 .ace_keyword {
   font-weight: bold;
-  color: #0654a1;
+  color: #9d4ebf;
   background-color: rgba(255, 212, 212, 0.00);
 
 }
@@ -138,7 +138,7 @@
 
 .ace_comment {
   font-weight: bold;
-  color: #ED09DA;
+  color: #e05188;
   background-color: rgba(233, 143, 255, 0.29);
 
 }
@@ -209,7 +209,7 @@
 }
 .terminal {
   background-color: rgba(252, 204, 222, 0.45);
-  color: #4a0099;
+  color: #955fcf;
   font-feature-settings: "liga" 0;
   position: relative;
   user-select: none;
@@ -217,7 +217,7 @@
   -webkit-user-select: none;
 }
 .terminal.xterm-cursor-style-block.focus:not(.xterm-cursor-blink-on) .terminal-cursor {
-  background-color: #333;
+  background-color: #955fcf;
   color: #CCC;
 }
 .terminal.focus.xterm-cursor-style-bar:not(.xterm-cursor-blink-on) .terminal-cursor::before,
@@ -238,7 +238,7 @@
   background-color: rgba(252, 204, 222, 0.45);
   overflow-y: scroll;
 }
-.xtermInvertColor { color: rgba(255, 214, 250, 0.45); }
+.xtermInvertColor { color: rgba(252, 204, 222, 0.45); }
 .xtermInvertBgColor { background-color: #4a0099; }
 .xtermBold { font-weight: bold; }
 .xtermBlur { filter: blur(1px); }
