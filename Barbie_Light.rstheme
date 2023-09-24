@@ -98,7 +98,8 @@
 }
 
 .ace_support.ace_function {
-background-color: rgba(252, 250, 230, 0.45);  
+
+background-color: inherit;
 color: #f54ead;
 
 }
