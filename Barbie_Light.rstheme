@@ -82,7 +82,7 @@
 
 .ace_constant {
   font-weight: bold;
-  color: #AE00FF;
+  color: #ff61ef;
 
 }
 
