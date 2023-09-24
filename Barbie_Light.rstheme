@@ -93,6 +93,8 @@
 }
 
 .ace_constant.ace_character.ace_escape {
+  background-color: inherit;
+
   color: #B5E4F4;
 
 }
@@ -105,7 +107,7 @@ color: #f54ead;
 }
 
 .ace_support.ace_class {
-  background-color: rgba(252, 250, 230, 0.45);
+  background-color: inherit;
   color: #FC6FA0;
 
 }
