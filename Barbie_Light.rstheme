@@ -100,9 +100,9 @@
 }
 
 .ace_support.ace_function {
-
-background-color: inherit;
-color: #f54ead;
+  background: rgba(252, 204, 222, 0.45);
+  background-color: rgba(252, 204, 222, 0.45);
+  color: #f54ead;
 
 }
 
