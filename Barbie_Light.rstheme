@@ -210,10 +210,10 @@
 .ace_marker-layer .ace_find_line {
   position: absolute;
   z-index: -1;
-  background-color: ##FCCCDE;
+  background-color: ##FFECCB;
 }
 .ace_console_error {
-  background-color: #FCCCDE;
+  background-color: #FFECCB;
 }
 .terminal {
   background-color: rgba(252, 204, 222, 0.45);
