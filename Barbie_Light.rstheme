@@ -210,10 +210,10 @@
 .ace_marker-layer .ace_find_line {
   position: absolute;
   z-index: -1;
-  background-color: #EDC1F1;
+  background-color: ##FCCCDE;
 }
 .ace_console_error {
-  background-color: #EDC1F1;
+  background-color: #FCCCDE;
 }
 .terminal {
   background-color: rgba(252, 204, 222, 0.45);
@@ -260,7 +260,6 @@
 .editor_dark.ace_editor_theme a {
    color: #FFF !important;
 }
-
 .ace_layer {
    z-index: 3;
 }
@@ -272,3 +271,4 @@
 .ace_layer.ace_marker-layer {
    z-index: 1;
 }
+
