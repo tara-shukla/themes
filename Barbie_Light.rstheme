@@ -12,6 +12,28 @@
   background: #e8e8e8;
 }
 
+/*difficult here*/
+
+.ace_support.ace_function {
+  background: rgba(252, 242, 212, 0.45);
+  background-color: rgba(252, 242, 212, 0.45);
+  color: #f54ead;
+
+}
+
+.ace_support.ace_class {
+  background-color: rgba(252, 242, 212, 0.45);
+  background-color: rgba(252, 242, 212, 0.45);
+  color: #FC6FA0;
+
+}
+
+.ace_support.ace_type {
+  color: #4A0099;
+
+}
+/*end*/
+
 .ace_editor, .ace_editor_theme .profvis-flamegraph, .ace_editor_theme {
   background-color: rgba(252, 204, 222, 0.45);
   color: #4A0099;
