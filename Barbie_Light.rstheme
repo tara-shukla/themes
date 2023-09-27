@@ -99,23 +99,6 @@
 
 }
 
-.ace_support.ace_function {
-  background: rgba(252, 204, 222, 0.45);
-  background-color: rgba(252, 204, 222, 0.45);
-  color: #f54ead;
-
-}
-
-.ace_support.ace_class {
-  background-color: inherit;
-  color: #FC6FA0;
-
-}
-
-.ace_support.ace_type {
-  color: #4A0099;
-
-}
 
 .ace_storage {
   color: #82C6E8;
